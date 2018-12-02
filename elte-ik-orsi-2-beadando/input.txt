@@ -1,0 +1,55 @@
+54
+Demon Hunter;Pandaren (Horde);30;Female;Associate Professor <name>;Eredar;Shrine of Seven Stars;Inscription
+Death Knight;Gnome;69;Female;Associate Professor <name>;Frostwolf;Exodar;Tailoring
+Warlock;Nightborne;11;Female;Assistant Professor <name>;The Maelstrom;Shrine of Seven Stars;Enchanting
+Warlock;Orc;112;Male;<name>, Blackwing's Bane;Stormrage;Shrine of Two Moons;Engineering
+Death Knight;Void Elf;5;Female;Twilight Vanquisher <name>;Twisting Nether;Stormwind;Skinning
+Paladin;Void Elf;8;Female;<name>, Savior of Azeroth;Draenor;Boralus;Blacksmithing
+Druid;Night Elf;10;Male;<name>, Blackwing's Bane;Onyxia;Thunder Bluff;Mining
+Rogue;Dark Iron Dwarf;46;Female;Dragonslayer <name>;Chamber of Aspects;Boralus;Blacksmithing
+Mage;Human;32;Male;<name> the Seeker;Molten Core;Orgrimmar;Inscription
+Death Knight;Pandaren (Horde);54;Female;<name> of the Four Winds;Draenor;Exodar;Tailoring
+Warrior;Highmountain Tauren;67;Female;<name>, Blackwing's Bane;Lordaeron;Silvermoon;Herbalism
+Priest;Void Elf;36;Female;<name> Jenkins;Thrall;Shattrath;Herbalism
+Death Knight;Gnome;83;Male;Twilight Vanquisher <name>;Chamber of Aspects;Dalaran;Blacksmithing
+Demon Hunter;Dark Iron Dwarf;79;Male;<name>, Destroyer's End;Dragonblight;Ironforge;Jewelcrafting
+Druid;Lightforged Draenei;46;Male;<name> Jenkins;Frostwhisper;Shrine of Seven Stars;Alchemy
+Priest;Pandaren (Alliance);59;Female;<name>, Savior of Azeroth;Stormscale;Thunder Bluff;Leatherworking
+Death Knight;Highmountain Tauren;82;Female;Dragonslayer <name>;Dragonblight;Boralus;Tailoring
+Monk;Gnome;28;Male;<name>, Liberator of Orgrimmar;Lordaeron;Shrine of Seven Stars;Enchanting
+Death Knight;Human;76;Female;Twilight Vanquisher <name>;Arathor;Shattrath;Jewelcrafting
+Priest;Void Elf;39;Female;<name> of the Four Winds;Stormrage;Boralus;Inscription
+Rogue;Mag'har Orc;83;Female;Assistant Professor <name>;Eonar;Shrine of Two Moons;Engineering
+Rogue;Draenei;69;Male;<name>, Blackwing's Bane;Frostwhisper;Stormwind;Leatherworking
+Monk;Undead;33;Male;Assistant Professor <name>;Outland;Shattrath;Skinning
+Demon Hunter;Orc;102;Male;<name> the Seeker;Al'Akir;Ironforge;Engineering
+Monk;Pandaren (Alliance);112;Female;<name>, Savior of Azeroth;Aggramar;Dalaran;Herbalism
+Demon Hunter;Goblin;58;Male;<name> the Light of Dawn;Grim Batol;Undercity;Herbalism
+Monk;Tauren;48;Female;Dragonslayer <name>;Stormrage;Exodar;Inscription
+Monk;Orc;47;Female;Dragonslayer <name>;Doomhammer;Zuldazar;Tailoring
+Warrior;Highmountain Tauren;13;Male;<name> the Astral Walker;Shadowsong;Boralus;Alchemy
+Shaman;Pandaren (Alliance);63;Male;<name> of the Nightfall;Ragnaros;Exodar;Blacksmithing
+Death Knight;Worgen;13;Male;<name>, Champion of the Frozen Wastes;Twilight's Hammer;Thunder Bluff;Mining
+Demon Hunter;Pandaren (Alliance);70;Male;Associate Professor <name>;Shadowmoon;Silvermoon;Jewelcrafting
+Druid;Human;69;Male;<name>, Blackwing's Bane;Outland;Shattrath;Engineering
+Paladin;Human;46;Male;<name> the Light of Dawn;Magtheridon;Boralus;Enchanting
+Mage;Draenei;103;Male;Assistant Professor <name>;Frostwolf;Ironforge;Herbalism
+Druid;Goblin;7;Female;<name> the Kingslayer;Ragnaros;Zuldazar;Skinning
+Rogue;Undead;115;Female;<name> the Kingslayer;Earthen Ring;Boralus;Leatherworking
+Rogue;Lightforged Draenei;54;Female;<name>, Savior of Azeroth;Nordrassil;Shattrath;Inscription
+Mage;Highmountain Tauren;48;Female;Ambassador <name>;Twilight's Hammer;Boralus;Skinning
+Priest;Dark Iron Dwarf;26;Female;<name> the Light of Dawn;Frostwolf;Shrine of Two Moons;Jewelcrafting
+Warrior;Orc;54;Female;<name> of the Ashen Verdict;Blackmoore;Darnassus;Herbalism
+Monk;Orc;41;Female;Associate Professor <name>;Outland;Dalaran;Inscription
+Priest;Undead;76;Female;<name> of the Ashen Verdict;Bloodhoof;Shrine of Seven Stars;Tailoring
+Shaman;Draenei;102;Female;Assistant Professor <name>;Molten Core;Shrine of Seven Stars;Mining
+Paladin;Goblin;113;Female;<name>, Champion of the Frozen Wastes;Chamber of Aspects;Darnassus;Leatherworking
+Hunter;Tauren;82;Female;<name> the Kingslayer;Darksorrow;Dalaran;Enchanting
+Death Knight;Worgen;99;Female;<name>, Blackwing's Bane;Sunstrider;Orgrimmar;Mining
+Warlock;Pandaren (Alliance);37;Female;Starcaller <name>;Shadowsong;Silvermoon;Blacksmithing
+Shaman;Mag'har Orc;42;Male;<name>, Blackwing's Bane;Azjol-Nerub;Silvermoon;Inscription
+Paladin;Pandaren (Alliance);45;Male;<name>, Conqueror of Orgrimmar;Blackrock;Dalaran;Skinning
+Hunter;Void Elf;49;Female;<name> the Hallowed;Eredar;Darnassus;Alchemy
+Death Knight;Gnome;114;Female;Associate Professor <name>;Stormrage;Exodar;Herbalism
+Rogue;Troll;67;Male;<name>, Liberator of Orgrimmar;Destromath;Dalaran;Skinning
+Mage;Blood Elf;97;Female;<name> of the Four Winds;Stonemaul;Silvermoon;Alchemy
